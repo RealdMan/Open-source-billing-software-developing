@@ -46,7 +46,8 @@ We are looking for **10 to 30 developers** to contribute in various areas:
 ✔ **Gain real-world experience in startup & product development**  
 
 ## 📢 How to Apply?  
-🚀 **Join the Revolution!**  
+🚀 Join the Revolution!
 📩 Email us at: info.productmarkets@gmail.com
-🌐 **GitHub Repository: https://github.com/RealdMan/Open-source-billing-software-developing/tree/main  
+
+🌐 GitHub Repository: https://github.com/RealdMan/Open-source-billing-software-developing/tree/main  
 
